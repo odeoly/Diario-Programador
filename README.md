@@ -1,2 +1,2 @@
-# Diario-Programador
- Repositório destinado ao meu primeiro projeto intitulado "Diário de um Programador" aonde eu vou fazer um relato do meu desenvolvimento como um programador JavaScript
+# Diário-Programador
+ Olá, eu me chamo Felipe Oliveira, tenho 23 anos e recentemente comecei a minha jornada como um desenvolvedor JavaScript. Eu tenho certeza de que essa jornada será muito desafiadora no entanto eu estou pronto para encarar esse novo desafio. Criei esse repositório para poder armazenar o meu primeiro projeto entitulado "Diário de um Programador", nele eu vou relatar o meu progresso e o meu aprendizado para que assim eu possa quem sabe ajudar o jovem programador que queira um dia ser um profissional valorizado pelo mercado assim como eu.
